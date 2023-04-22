@@ -4,15 +4,17 @@ import { blog } from "../../assets/data/data"
 import { AiOutlineTags, AiOutlineClockCircle, AiOutlineComment, AiOutlineShareAlt } from "react-icons/ai"
 import { Link } from "react-router-dom"
 
+import image from "../../assets/images/blogs/b1.jpg"
+
 export const Card = () => {
   return (
     <>
       <section className='blog'>
         <div className='container grid3'>
-          {blog.map((item) => (
+          {blog.map((item) => (//item.cover
             <div className='box boxItems' key={item.id}>
               <div className='img'>
-                <img src={item.cover} alt='' />
+                <img src={image} alt='' />
               </div>
               <div className='details'>
                 <div className='tag'>

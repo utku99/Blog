@@ -5,6 +5,7 @@
 .category .box {
   border-radius: 0;
   text-align: center;
+  margin-left: 2px;
 }
 .category p {
   text-transform: capitalize;
@@ -47,7 +48,6 @@
   font-weight: 300;
   padding: 15px;
 }
-/*---------------control-btn-------------*/
 .control-btn button {
   background: white;
   width: 30px;
@@ -77,4 +77,4 @@
 .control-btn .icon {
   font-size: 25px;
 }
-/*---------------control-btn-------------*/
+

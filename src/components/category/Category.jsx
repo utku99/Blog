@@ -1,6 +1,9 @@
 import React from "react"
 import "./category.css"
 import { category } from "../../assets/data/data"
+
+import image from "../../assets/images/category/ca1.png"
+
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 import Slider from "react-slick"
@@ -52,10 +55,10 @@ export const Category = () => {
       <section className='category'>
         <div className='content'>
           <Slider {...settings}>
-            {category.map((item) => (
+            {category.map((item) => (//item.cover
               <div className='boxs'>
                 <div className='box' key={item.id}>
-                  <img src={item.cover} alt='cover' />
+                  <img src={image} alt='cover' /> 
                   <div className='overlay'>
                     <h4>{item.category}</h4>
                     <p>{item.title}</p>

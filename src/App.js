@@ -8,6 +8,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 import { DetailsPages } from "./pages/details/DetailsPages"
 import { Account } from "./pages/account/Account"
 import { Create } from "./components/create/Create"
+import {Bos} from "./components/bos/Bos"
 
 const App = () => {
   return (
@@ -21,6 +22,10 @@ const App = () => {
           <Route exact path='/details/:id' component={DetailsPages} />
           <Route exact path='/account' component={Account} />
           <Route exact path='/create' component={Create} />
+          <Route exact path='/about' component={Bos} />
+          <Route exact path='/pages' component={Bos} />
+          <Route exact path='/blog' component={Bos} />
+          <Route exact path='/contact' component={Bos} />
         </Switch>
         <Footer />
       </Router>
