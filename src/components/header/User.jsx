@@ -29,8 +29,8 @@ export const User = () => {
                       <img src='https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&w=600' alt='' />
                     </div>
                     <div className='text'>
-                      <h4>Eden Smith</h4>
-                      <label>Los Angeles, CA</label>
+                      <h4>Utku Aksoy</h4>
+                      <label>IUC - CE</label>
                     </div>
                   </div>
                 </Link>
