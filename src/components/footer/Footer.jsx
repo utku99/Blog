@@ -1,7 +1,7 @@
 import React from "react"
 import { AiFillLinkedin } from "react-icons/ai"
 import { RiInstagramFill } from "react-icons/ri"
-import { Link } from "react-router-dom/cjs/react-router-dom.min"
+
 
 export const Footer = () => {
   return (
