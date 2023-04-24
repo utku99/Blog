@@ -4,14 +4,14 @@ import { blog } from "../../assets/data/data"
 import { AiOutlineTags, AiOutlineClockCircle, AiOutlineComment, AiOutlineShareAlt } from "react-icons/ai"
 import { Link } from "react-router-dom"
 
-import image from "../../assets/images/blogs/b1.jpg"
+import image from "../../assets/images/b1.jpg"
 
 export const Card = () => {
   return (
     <>
       <section className='blog'>
         <div className='container grid3'>
-          {blog.map((item) => (//item.cover
+          {blog.map((item) => (
             <div className='box boxItems' key={item.id}>
               <div className='img'>
                 <img src={image} alt='' />
@@ -30,7 +30,7 @@ export const Card = () => {
                   <AiOutlineComment className='icon' /> <label htmlFor=''>27</label>
                   <AiOutlineShareAlt className='icon' /> <label htmlFor=''>SHARE</label>
                 </div>
-              </div>
+              </div> 
             </div>
           ))}
         </div>
