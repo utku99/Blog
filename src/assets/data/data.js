@@ -81,7 +81,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Nature",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
 
@@ -90,7 +90,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Nature",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
   {
@@ -98,7 +98,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Sports",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
   {
@@ -106,7 +106,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Fashion",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
   {
@@ -114,7 +114,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Sports",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
   {
@@ -122,7 +122,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Fashion",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
   {
@@ -130,7 +130,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Fashion",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
   {
@@ -138,7 +138,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Fashion",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
   {
@@ -146,7 +146,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Fashion",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
 
@@ -155,7 +155,7 @@ export const blog = [
     title: "Lorem ipsum dolor sit amet.",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores iste molestias adipisci voluptates in non nisi eius, ad repudiandae earum voluptas illum? Distinctio asperiores, incidunt unde, impedit, saepe repellendus ullam eius fugit odit dolorum dolorem labore mollitia adipisci illum magnam fuga accusantium consequuntur nemo? Voluptatibus maiores quae fugit aspernatur consequatur est eos corporis optio officia temporibus. Blanditiis temporibus iure incidunt hic rerum dignissimos placeat molestiae, explicabo asperiores, doloremque nemo repellendus numquam atque odit totam similique laborum sapiente rem fugiat facilis aut neque soluta labore eligendi. Quam quaerat voluptatum magnam! Quo earum exercitationem possimus perferendis, in voluptates assumenda eum dignissimos consequatur.",
     category: "Fashion",
-    cover: "../images/blogs/b1.jpg",
+    cover: "../images/b1.jpg",
     date: "14.05.2023",
   },
 ]
