@@ -6,14 +6,14 @@ import { nav } from "../../assets/data/data"
 import { Link } from "react-router-dom"
 
 export const Header = () => {
-   window.addEventListener("scroll", function () {
+   window.addEventListener("scroll", function (){
     const header = this.document.querySelector(".header")
-    header.classList.toggle("active", this.window.scrollY > 100)
+    header.classList.toggle("active", this.window.scrollY > 200)
   }) 
   return (
     <>
       <header className='header'>
-        <div className='scontainer flex'>
+        <div className='flex'>
           <div className='logo'>
             <img src={logo} alt='logo' width='100px' />
           </div>

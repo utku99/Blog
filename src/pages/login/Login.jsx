@@ -11,7 +11,6 @@ export const Login = () => {
             <img src={back} alt='' />
             <div className='text'>
               <h3>Login</h3>
-              <h1>My account</h1>
             </div>
           </div>
 

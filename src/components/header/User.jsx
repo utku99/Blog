@@ -1,7 +1,5 @@
 import React, { useState } from "react"
 import { IoSettingsOutline } from "react-icons/io5"
-import { BsBagCheck } from "react-icons/bs"
-import { AiOutlineHeart } from "react-icons/ai"
 import { GrHelp } from "react-icons/gr"
 import { BiLogOut } from "react-icons/bi"
 import { RiImageAddLine } from "react-icons/ri"
@@ -13,6 +11,7 @@ export const User = () => {
   const close = () => {
     setProfileOpen(false)
   }
+
   return (
     <>
       <div className='profile'>
@@ -47,14 +46,6 @@ export const User = () => {
                   </button>
                 </Link>
                 <button className='box'>
-                  <BsBagCheck className='icon' />
-                  <h4>My Order</h4>
-                </button>
-                <button className='box'>
-                  <AiOutlineHeart className='icon' />
-                  <h4>Wishlist</h4>
-                </button>
-                <button className='box'>
                   <GrHelp className='icon' />
                   <h4>Help</h4>
                 </button>
@@ -66,7 +57,10 @@ export const User = () => {
             )}
           </>
         ) : (
-          <button>My Account</button>
+          <Link to="/register">
+            <button>Register</button>
+          </Link>
+
         )}
       </div>
     </>

@@ -11,7 +11,6 @@ export const Regsiter = () => {
             <img src={back} alt='' />
             <div className='text'>
               <h3>Register</h3>
-              <h1>My account</h1>
             </div>
           </div>
 
@@ -22,7 +21,7 @@ export const Regsiter = () => {
             <input type='text' required />
             <span>Password *</span>
             <input type='password' required />
-            <span>Conform Password *</span>
+            <span>Confirm Password *</span>
             <input type='password' required />
             <button className='button'>Register</button>
           </form>
