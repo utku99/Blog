@@ -2,7 +2,7 @@ export const nav = [
   {
     id: 1,
     text: "home",
-    url: "/",
+    url: "/BlogTemplate",
   },
   {
     id: 2,
