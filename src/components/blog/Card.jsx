@@ -14,7 +14,9 @@ export const Card = () => {
           {blog.map((item) => (
             <div className='box boxItems' key={item.id}>
               <div className='img'>
-                <img src={image} alt='' />
+              <Link to={`/details/${item.id}`} className='link'>
+                   <img src={image} alt='' />
+                </Link>
               </div>
               <div className='details'>
                 <div className='tag'>
